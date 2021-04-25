@@ -126,3 +126,14 @@ hr {
     border-width: 5px;
     width: 5%;
 }
+@media ( max-width : 500px ) {
+
+.mountain {
+                width : 300px !important;
+
+}
+
+.bottom-cloud{
+    left : auto;
+    right: 0 ;}
+}
